@@ -1,3 +1,7 @@
+//my cool bird game ahihi
+
+
+
 Bird b = new Bird(100,500, 50,'a' );
 Bird b2 = new Bird( 800,500,100, 'd');
 ArrayList <Pipe> pipes = new ArrayList < Pipe>();
